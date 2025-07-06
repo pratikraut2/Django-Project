@@ -1,0 +1,63 @@
+/* notes/static/notes/style.css */
+
+body {
+    background-color: #f8f6ff;
+    color: #1a1a2e;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+.card {
+    background-color: #fff0f6;
+    border: 1px solid #ff8fab;
+    border-radius: 12px;
+}
+
+.btn-primary {
+    background-color: #ff2e63;
+    border-color: #ff2e63;
+    color: #fff;
+}
+
+.btn-outline-primary {
+    color: #ff2e63;
+    border-color: #ff2e63;
+    background: #fff;
+}
+
+.btn-outline-danger {
+    color: #f6416c;
+    border-color: #f6416c;
+    background: #fff;
+}
+
+.form-control {
+    background-color: #fff;
+    border-color: #ff8fab;
+}
+
+.form-label {
+    font-weight: 600;
+    color: #3a0088;
+}
+
+.alert-info {
+    background-color: #e0c3fc;
+    color: #3a0088;
+}
+
+a {
+    color: #3a86ff;
+    text-decoration: none;
+}
+a:hover {
+    color: #ff006e;
+    text-decoration: underline;
+}
+
+.rounded-custom {
+    border-radius: 16px;
+}
+
+.shadow-light {
+    box-shadow: 0 4px 16px rgba(255, 46, 99, 0.08);
+}
